@@ -97,3 +97,8 @@ particular system.
 
 1. Should have an option to not enforce sequential ordering
     - next_block can skip a process if no block available
+
+## License
+
+- New BSD license
+- see https://github.com/duomark/gen_stream/blob/master/LICENSE
